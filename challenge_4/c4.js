@@ -51,5 +51,5 @@ function narcissistic(value) {
 /**
  * How I feel about the problem:  
  * 
- * I felt really good at solving this one. After just learing about how intergers needed to be converted to a string, I knew imediately that if I wanted to grab each position of the interger it needed to be a string first. And after totaling all the numbers up it just needed to be compared to the original value. 
+ * I felt really good at solving this one. After just learning about how integers needed to be converted to a string, I knew immediately that if I wanted to grab each position of the integer, it needed to be a string first. And after totaling all the numbers up, it just needed to be compared to the original value. 
  */

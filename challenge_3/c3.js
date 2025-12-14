@@ -27,5 +27,5 @@ function sumTwoSmallestNumbers(numbers) {
 /**
  * How I feel about the problem:  
  * 
- * I would say this problem was a medium level for me. I understood what needed to be done and I knew you could use the sort method to re-arange the numbers to be least to greatest. The hardest part for me was writing the sort correctly. Originally I thought it didn't need to take any parameters but I got an error. Which was where I figured, okay it does need one. Overall, I felt like this was good practice. 
+ * I would say this problem was a medium level for me. I understood what needed to be done, and I knew you could use the sort method to rearrange the numbers from least to greatest. The hardest part for me was writing the sort correctly. Originally, I thought it didn't need to take any parameters, but I got an error. Which was where I figured, okay, it does need one. Overall, I felt like this was good practice. 
  */
